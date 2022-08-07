@@ -65,11 +65,11 @@ global.owner = ['923309822920']
 global.ownertag = '923309822920' //ur tag number
 global.botname = 'Malik Bot V1' //ur bot name
 global.linkz = "https://youtu.be" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.websitex = "https://youtu.be" //ur website to be displayed
 global.botscript = 'https://github.com/asgharmalik37' //script link
 global.reactmoji = "🇵🇰" //ur menu react emoji
 global.themeemoji = "🚬" //ur theme emoji
-global.packname = "Pak Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "Malik Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "🇵🇰MALIK ASGHAR LATIF 🇵🇰" //ur sticker watermark author
 
 //Bot theme media
