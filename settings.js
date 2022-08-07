@@ -63,10 +63,10 @@ global.location = "Pakistan" //ur location
 //bot bomdy 
 global.owner = ['923309822920']
 global.ownertag = '923309822920' //ur tag number
-global.botname = 'Pak Bot  V1' //ur bot name
+global.botname = 'M Bot V1' //ur bot name
 global.linkz = "https://youtu.be" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.botscript = 'https://github.com/asgharmalik37' //script link
 global.reactmoji = "🇵🇰" //ur menu react emoji
 global.themeemoji = "🚬" //ur theme emoji
 global.packname = "Pak Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['923309822920'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
