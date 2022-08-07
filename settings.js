@@ -63,7 +63,7 @@ global.location = "Pakistan" //ur location
 //bot bomdy 
 global.owner = ['923309822920']
 global.ownertag = '923309822920' //ur tag number
-global.botname = 'M Bot V1' //ur bot name
+global.botname = 'Malik Bot V1' //ur bot name
 global.linkz = "https://youtu.be" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/asgharmalik37' //script link
